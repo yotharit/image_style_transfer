@@ -1,0 +1,9 @@
+output/*
+WCT/relu1_1/
+WCT/relu2_1/
+WCT/relu3_1/
+WCT/relu4_1/
+WCT/relu5_1/
+data/ouput/
+models/mytrain/
+WCT/vgg_normalised.t7
