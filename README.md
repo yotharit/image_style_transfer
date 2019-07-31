@@ -1,6 +1,6 @@
 # Image Style Transfer
 
-![Result](./example.png)
+![Result](./doc/figure/fig23.png)
 
 This project is a study of how image style transfer can be implemented using Keras. We implement a Convolutional Neural Network introduced by Gatys et al and Universal Style Transfer via Featire Transforms by Li et al.The project is being run on Nvidia Jetson TX2 as a main devices. We also provid an interactive application to let you see the result of the style transfering which can be found in the section belows.
 
